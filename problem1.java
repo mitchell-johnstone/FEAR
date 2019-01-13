@@ -9,5 +9,6 @@ public class problem1{
             }
         }
         System.out.print(sum);
+        System.out.print("Hello!");
     }
 }
